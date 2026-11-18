@@ -1,5 +1,5 @@
 # Examenes-TAI
-Exámenes de oposiciones TAI-GSI. Recopilación inicial por @tejeirodelrio y posterior mia.
+Exámenes de oposiciones TAI-GSI en formato PDF. Recopilación inicial por @tejeirodelrio y posterior mia.
 
 ## Más info de oposiciones TAI
 https://oposicionestai.es/
